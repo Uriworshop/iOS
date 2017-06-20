@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{2E45C2B7-A3BA-40AD-87E6-444E43EB842D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppAzureCuentaGratis/ViewController.cs">
+    <Files>
+      <File FileName="AppAzureCuentaGratis/ViewController.cs" Line="52" Column="3" />
+      <File FileName="AppAzureCuentaGratis/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AppAzureCuentaGratis PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E7A856BF-3266-4C3D-A0E2-93D41A2389DE" />
+  <MultiItemStartupConfigurations />
+</Properties>

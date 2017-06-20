@@ -1,0 +1,12 @@
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/bin/iPhoneSimulator/Debug/AppAzureCuentaGratis.pdb
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/bin/iPhoneSimulator/Debug/AppAzureCuentaGratis.exe
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/obj/iPhoneSimulator/Debug/AppAzureCuentaGratis.exe
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/obj/iPhoneSimulator/Debug/AppAzureCuentaGratis.pdb
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/bin/iPhoneSimulator/Debug/Geolocator.Plugin.Abstractions.dll
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/bin/iPhoneSimulator/Debug/Geolocator.Plugin.dll
+/Users/uriworshop/Projects/AppAzureCuentaGratis/AppAzureCuentaGratis/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
